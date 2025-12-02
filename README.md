@@ -103,12 +103,3 @@ To fully evaluate the application's capabilities, we recommend testing the follo
 
 -   **Action:** Use any job description and upload a resume with an unconventional or minimalist format.
 -   **Expected Result:** The system demonstrates its robust parsing capabilities by correctly extracting the available technical skills, even without clear "Skills" or "Experience" sections, and provides an accurate, albeit potentially low, score based on the data it could find.
-
----
-
-### Evaluation Focus Checklist
-
--   [✔] **Code Quality & Structure:** Clean, modern React/TypeScript codebase.
--   [✔] **Data Extraction:** Robust client-side PDF parsing and data structuring.
--   [✔] **LLM Prompt Quality:** Sophisticated, multi-factor analysis logic.
--   [✔] **Output Clarity:** Clear, actionable results with justifications and suggestions.
